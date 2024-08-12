@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyter = "*"
+pygltflib = "*"
+trimesh = "*"
+pyrender = "*"
+pyglet = "<2"
+scipy = "*"
+install = "*"
+numpy = "<2"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
+python_full_version = "3.9.18"
