@@ -12,6 +12,10 @@ pyglet = "<2"
 scipy = "*"
 install = "*"
 numpy = "<2"
+fpdf2 = "*"
+pyecharts = "*"
+scikit-learn = "*"
+seaborn = "*"
 
 [dev-packages]
 
